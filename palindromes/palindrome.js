@@ -17,3 +17,5 @@ console.log(res);
 // * toString convert number to string example = 121 => "121"
 
 // * .split convert string to array and split example = "121" => ["1", "2", "3"]
+
+// ! + symbol is the unary plus operator here it is converting string back to number
